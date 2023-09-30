@@ -26,4 +26,4 @@ Join us on this exciting journey to combat motion sickness and elevate your trav
 
 Let's redefine travel comfort together! 🌐🚗🚢🚁
 
-*Note: This project is based on our work as of September 2021.*
+Find the link to the train images and the test videos [here](https://drive.google.com/drive/folders/1rWiLenvCZWOFcBRw0v_7nAPkyjb-cbu4?usp=sharing).
